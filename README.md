@@ -1,7 +1,7 @@
 # Tareas
 
 [Captura desde 2022-10-19 10-53-58](https://user-images.githubusercontent.com/64230830/196711360-a6213802-dd59-43da-b390-80910c522367.png)
-
+el proyecto https://darling-lily-7d41a3.netlify.app
 ect was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
 ## Development server
